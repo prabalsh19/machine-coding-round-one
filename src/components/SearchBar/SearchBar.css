@@ -2,8 +2,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: sticky;
-  top: 0;
   padding: 1rem;
 }
 .search-bar {

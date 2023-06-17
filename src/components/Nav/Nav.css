@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 1rem;
+  cursor: pointer;
+  background-color: blanchedalmond;
+}
+.search-btn {
+  text-decoration: none;
+  color: black;
+  background-color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.logo {
+  color: black;
+  font-size: larger;
+  text-decoration: none;
+  font-weight: bolder;
+}

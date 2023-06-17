@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+}
+.search-results {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 1rem;
+  flex-wrap: wrap;
+  gap: 2rem;
+}

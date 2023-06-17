@@ -1,0 +1,15 @@
+.shelve-books-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.heading {
+  text-align: center;
+}
+
+.book-cover {
+  width: 12rem;
+}
+.book-name {
+  margin: 10px 0;
+  height: 2rem;
+}

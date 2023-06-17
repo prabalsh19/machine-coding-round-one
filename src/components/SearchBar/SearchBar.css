@@ -1,0 +1,25 @@
+.search-bar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  padding: 1rem;
+}
+.search-bar {
+  padding: 10px;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  font-size: large;
+}
+.search-bar-container svg {
+  margin-right: 2rem;
+  cursor: pointer;
+  padding: 10px;
+  color: black;
+}
+.search-bar-container svg:hover {
+  background-color: white;
+  border-radius: 10rem;
+}
